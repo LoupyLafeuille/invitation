@@ -67,7 +67,7 @@
 
     <div class="container">
         <div class="gif-container">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXNqZzR3bm82bm90am96eHpsbmNreWp6eHpsbmNreWp6eHpsJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/K979VpDzV8c8E9y0mP/giphy.gif" alt="Cœur mignon">
+            <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2xmeTE4a2plNjl6MjJlcnZocWs5MXZjZmVjemg0and1d3dnejUwMyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/R6gvnAxj2ISzJdbA63/giphy.gif" alt="Cœur mignon">
         </div>
         <h1>Veux-tu être ma Valentine ? ❤️</h1>
         <div class="buttons">
@@ -93,7 +93,7 @@
         yesBtn.addEventListener('click', () => {
             document.body.innerHTML = `
                 <div class="container">
-                    <h1>YAY ! À bientôt Valentine ! 🥰</h1>
+                    <h1>YAY ! À ce soir ma Valentine ! 🥰</h1>
                     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp6eHpsbmNreWp6eHpsbmNreWp6eHpsbmNreWp6eHpsJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lH4ADRtAYnGsLe/giphy.gif" width="300">
                 </div>
             `;
